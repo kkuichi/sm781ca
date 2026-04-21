@@ -2,11 +2,11 @@
 
 #### Autor: Bc. Šimon Mikolaj
      ŠKOLITEĽ: prof. Ing. Ján Paralič, PhD.
-    # ROK: 2025/2026
-    # UNIVERZITA: Technická univerzita v Košiciach
-    # FAKULTA: Fakulta Elektrotechniky a Informatiky 
-    # ŠTUDIJNÝ ODBOR: Informatika
-    # ŠTUDIJNÝ PROGRAM: Hospodárska informatika
+     ROK: 2025/2026
+     UNIVERZITA: Technická univerzita v Košiciach
+     FAKULTA: Fakulta Elektrotechniky a Informatiky 
+     ŠTUDIJNÝ ODBOR: Informatika
+     ŠTUDIJNÝ PROGRAM: Hospodárska informatika
 
 Tento repozitár obsahuje zdrojové kódy mojej diplomovej práce zameranej na identifikáciu základných fenotypov pacientov s COVID-19 pomocou algoritmov zhlukovania a na porovnanie ich klinických charakteristík v rámci vĺn pandémie.
 
