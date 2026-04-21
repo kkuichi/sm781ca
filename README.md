@@ -1,6 +1,6 @@
 # Popisné modely pre analýzu dát opacientoch s COVID-19
 
-### Šimon Mikolaj
+### Bc. Šimon Mikolaj
     # ŠKOLITEĽ: prof. Ing. Ján Paralič, PhD.
     # ROK: 2025/2026
     # UNIVERZITA: Technická univerzita v Košiciach
