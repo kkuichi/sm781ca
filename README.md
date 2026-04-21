@@ -1,4 +1,4 @@
-# Popisné modely pre analýzu dát opacientoch s COVID-19
+# Popisné modely pre analýzu dát o pacientoch s COVID-19
 
 ### Bc. Šimon Mikolaj
     # ŠKOLITEĽ: prof. Ing. Ján Paralič, PhD.
